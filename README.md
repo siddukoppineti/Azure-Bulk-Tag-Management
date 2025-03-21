@@ -6,9 +6,9 @@ Overview
 
 This PowerShell automation consists of two scripts:
 
-Discovery Script – Scans Azure resources and generates a CSV file listing all resources, including their tags.
+Discovery Script – Scans Azure resources and generates a CSV file listing all resources, including their tags(AzureResources.csv).
 
-Bulk Tagging Script – Reads a predefined CSV (tags.csv) and applies tag changes (addition, modification, or deletion) in bulk.
+Bulk Tagging Script – Reads a predefined CSV (AzureResources.csv) and applies tag changes (addition, modification, or deletion) in bulk.
 
 
 Prerequisites:
