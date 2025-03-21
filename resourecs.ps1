@@ -1,7 +1,7 @@
 Connect-AzAccount
 
 # Define Subscription Name
-$subscriptionName = "eSolutions Group Production"  # Change this to your actual subscription name
+$subscriptionName = "Subscription name"  # Change this to your actual subscription name
 
 # Set output CSV and log paths
 $outputCsv = "$PWD\AzureResources.csv"
